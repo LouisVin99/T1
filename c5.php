@@ -46,16 +46,15 @@
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
                             <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Course Detail</h6>
-                            <h1 class="display-4">Web design & development courses for beginners</h1>
+                            <h1 class="display-4">Visual Communication Design</h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/header.jpg" alt="Image">
-                        <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
-                        
-                        <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut magna lorem.
-                            Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet amet magna accusam
-                            consetetur eirmod. Kasd accusam sit ipsum sadipscing et at at sanctus et. Ipsum sit
-                            gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea
-                            sea no sed dolores diam nonumy, gubergren sit stet no diam kasd vero.</p>
+                        <p>
+                        Discover the captivating world of Visual Communication Design with our online degree on the basics. Whether you're a beginner with a passion for design or a professional looking to enhance your visual communication skills, this degree is the perfect starting point. Learn the fundamental principles of design, including colour theory, typography, layout, and composition. Through engaging video lessons and hands-on projects, you'll gain a solid understanding of how to create visually appealing and effective designs that convey messages with impact. With real-world examples and practical exercises, this degree will empower you to communicate ideas visually and engage your audience across various mediums.
+                        </p>
+                        <p>
+                        In this degree, you'll explore the tools and techniques used in visual communication design, including industry-standard software like Adobe Photoshop, Illustrator, and InDesign. Develop your creative eye and learn how to make informed design choices that align with the intended message and target audience. Whether you're interested in graphic design, web design, advertising, or marketing, the skills you gain in this degree will be invaluable. Join us today to embark on your journey into the world of visual communication design and unlock your creative potential.
+                        </p>
                     </div>
 
                     <h2 class="mb-3">Related Courses</h2>

@@ -46,16 +46,15 @@
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
                             <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Course Detail</h6>
-                            <h1 class="display-4">Web design & development courses for beginners</h1>
+                            <h1 class="display-4">Business Accounting</h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/header.jpg" alt="Image">
-                        <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
-                        
-                        <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut magna lorem.
-                            Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet amet magna accusam
-                            consetetur eirmod. Kasd accusam sit ipsum sadipscing et at at sanctus et. Ipsum sit
-                            gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea
-                            sea no sed dolores diam nonumy, gubergren sit stet no diam kasd vero.</p>
+                        <p>
+                        Master the world of accounting with our comprehensive online degree. Designed for beginners and professionals alike, this complete Accounting degree will equip you with the knowledge and skills necessary to understand and navigate the complex world of financial records and statements. From the basics of bookkeeping to advanced concepts like financial analysis and reporting, this degree covers it all. With interactive lessons, practical exercises, and real-world examples, you'll gain a deep understanding of accounting principles, techniques, and practices that are essential for managing financial transactions and making informed business decisions.
+                        </p>
+                        <p>
+                        Throughout this online degree, you'll delve into various accounting topics, including financial statements, journal entries, budgeting, taxation, and auditing. You'll also explore software tools commonly used in the industry, such as QuickBooks and Excel, to streamline accounting processes. Whether you're looking to enhance your professional skills or start a career in accounting, this degree is designed to provide you with a solid foundation and comprehensive knowledge to excel in the field. Join us today to unlock the power of accounting and open up a world of opportunities in finance and business.
+                        </p>
                     </div>
 
                     <h2 class="mb-3">Related Courses</h2>

@@ -58,13 +58,13 @@
                             <h1 class="display-4">Fundamentals of Social Media Marketing</h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/header.jpg" alt="Image">
-                        <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
+                        <p>
+                            Are you ready to take your business to the next level? Our comprehensive online course on Marketing for every kind of business is designed to equip you with the essential knowledge and skills to drive growth and success in today's competitive marketplace. Whether you're a small business owner, an entrepreneur, or a marketing professional seeking to enhance your expertise, this course is for you. Learn the fundamentals of marketing strategy, market research, branding, digital marketing, social media, and more. Through practical examples and real-world case studies, you'll gain insights into effective marketing techniques that can be applied to any type of business, regardless of industry or size.
+                        </p>
                         
-                        <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut magna lorem.
-                            Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet amet magna accusam
-                            consetetur eirmod. Kasd accusam sit ipsum sadipscing et at at sanctus et. Ipsum sit
-                            gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea
-                            sea no sed dolores diam nonumy, gubergren sit stet no diam kasd vero.</p>
+                        <p>
+                            In this course, you'll explore the latest trends and best practices in marketing, enabling you to develop tailored marketing strategies that align with your business goals. Discover how to identify and target your ideal customer segments, craft compelling brand messages, and leverage digital channels to reach your target audience effectively. From creating engaging content to implementing successful marketing campaigns, you'll acquire the tools and techniques to build brand awareness, attract customers, and drive conversions. Join us today and unlock the potential of marketing to propel your business forward in today's dynamic marketplace.
+                        </p>
                     </div>
 
                     <h2 class="mb-3">Related Courses</h2>

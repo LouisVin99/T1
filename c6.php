@@ -46,16 +46,15 @@
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
                             <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Course Detail</h6>
-                            <h1 class="display-4">Web design & development courses for beginners</h1>
+                            <h1 class="display-4">Business Management</h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/header.jpg" alt="Image">
-                        <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
-                        
-                        <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut magna lorem.
-                            Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet amet magna accusam
-                            consetetur eirmod. Kasd accusam sit ipsum sadipscing et at at sanctus et. Ipsum sit
-                            gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea
-                            sea no sed dolores diam nonumy, gubergren sit stet no diam kasd vero.</p>
+                        <p>
+                        Gain the essential skills and knowledge to excel in the world of business management with our comprehensive online degree. Whether you're an aspiring entrepreneur or a seasoned professional looking to enhance your managerial abilities, this degree is designed to provide you with a solid foundation in all aspects of business management. Learn effective strategies for organizational planning, decision-making, team leadership, and resource allocation. Through engaging video lectures and interactive case studies, you'll develop a deep understanding of key business concepts and best practices. From developing business strategies to improving operational efficiency, this degree will equip you with the tools to drive success in any business environment.
+                        </p>
+                        <p>
+                        Throughout this degree, you'll explore various facets of business management, including marketing, finance, human resources, and operations. Gain insights into market analysis, customer segmentation, financial planning, budgeting, employee recruitment, performance management, and more. You'll also learn how to adapt to changing business landscapes, navigate challenges, and seize opportunities for growth. Whether you're aiming to start your own business or advance your career in management, this degree will provide you with the knowledge and skills to make informed decisions and achieve long-term success. Join us today to embark on a transformative journey in the world of business management.
+                        </p>
                     </div>
 
                     <h2 class="mb-3">Related Courses</h2>

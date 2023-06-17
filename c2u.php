@@ -140,7 +140,7 @@
                     </div>
                     <h5 class="text-white py-3 px-4 m-0">Course Price: $199</h5>
                     <div class="py-3 px-4">
-                        <a class="btn btn-block btn-secondary py-3 px-5" href="register.php">Enroll Now</a>
+                        <a class="btn btn-block btn-secondary py-3 px-5" href="enroll.php">Enroll Now</a>
                     </div>
                 </div>
 
